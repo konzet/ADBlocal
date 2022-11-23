@@ -28,7 +28,4 @@ kalian bisa uninstall bloatware/ aplikasi bawaan di hp kalian dengan cara
 adb uninstall com.myAppPackage
 ```
 kalian bisa liat package name aplikasi di info app
-kalo gk ada kalian bisa install aplikasi `package name viewer 2.0` diplaysotore
-
-
-
+kalo gk ada kalian bisa install aplikasi [package name viewer 2.0](https://play.google.com/store/apps/details?id=com.csdroid.pkg)
