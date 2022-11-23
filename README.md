@@ -6,7 +6,7 @@ kalian harus install aplikasi termux\
 # COMMAND
 install android-tools ditermux 
 ```
-pkg i android-tools
+pkg install android-tools -y
 ```
 sambungkan hp kalian ke wifi
 lalu masuk ke develover settings
