@@ -25,14 +25,14 @@ adb connect ipadress
 ```
 kalian bisa uninstall bloatware/ aplikasi bawaan di hp kalian dengan cara 
 ```
-adb uninstall com.myAppPackage
+adb uninstall com.exapleAAP
 ```
 untuk liat list package
 ```
 adb shell pm list package 
 ```
 
-untuk lebih enak liat name aplikasi di info app
+untuk lebih enak liat `package name aplikasi` di info app
 kalo gk ada kalian bisa install aplikasi [package name viewer 2.0](https://play.google.com/store/apps/details?id=com.csdroid.pkg)
 
 hati-hati saat menguninstall aplikasi jangan sampai aplikasi penting system terhapus!
