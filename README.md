@@ -4,7 +4,7 @@ tanpa root dan pc\
 kalian harus install aplikasi termux\
 [Download Termux](https://github.com/termux/termux-app/releases)
 # COMMAND
-install android-tools
+install android-tools ditermux 
 ```
 pkg i android-tools
 ```
@@ -35,7 +35,7 @@ untuk liat list package
 adb shell pm list package 
 ```
 
-untuk lebih enak liat `package name aplikasi` di info app
+untuk lebih enak liat `package name application` di info app\
 kalo gk ada kalian bisa install aplikasi [package name viewer 2.0](https://play.google.com/store/apps/details?id=com.csdroid.pkg)
 
 hati-hati saat menguninstall aplikasi jangan sampai aplikasi penting system terhapus!
