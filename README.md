@@ -1,8 +1,7 @@
-# ADB CONNECT LOCAL HOST!
-connect adb localhost with termux
-you must have installed termux
-[Download Termux]
-(https://github.com/termux/termux-app/releases)
+# ADB LOCAL HOST 
+connect adb localhost pake termux
+kalian harus download aplikasi termux 
+[Download Termux](https://github.com/termux/termux-app/releases)
 # COMMAND
 install android-tools
 ```
