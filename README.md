@@ -29,3 +29,5 @@ adb uninstall com.myAppPackage
 ```
 kalian bisa liat package name aplikasi di info app
 kalo gk ada kalian bisa install aplikasi [package name viewer 2.0](https://play.google.com/store/apps/details?id=com.csdroid.pkg)
+
+hati-hati saat menguninstall aplikasi jangan sampai aplikasi penting system terhapus!
