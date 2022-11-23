@@ -1,6 +1,6 @@
 # ADB LOCAL HOST 
 connect adb localhost pake termux
-kalian harus download aplikasi termux 
+kalian harus download aplikasi termux\
 [Download Termux](https://github.com/termux/termux-app/releases)
 # COMMAND
 install android-tools
@@ -27,7 +27,12 @@ kalian bisa uninstall bloatware/ aplikasi bawaan di hp kalian dengan cara
 ```
 adb uninstall com.myAppPackage
 ```
-kalian bisa liat package name aplikasi di info app
+untuk liat list package
+```
+adb shell pm list package 
+```
+
+untuk lebih enak liat name aplikasi di info app
 kalo gk ada kalian bisa install aplikasi [package name viewer 2.0](https://play.google.com/store/apps/details?id=com.csdroid.pkg)
 
 hati-hati saat menguninstall aplikasi jangan sampai aplikasi penting system terhapus!
