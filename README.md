@@ -1,6 +1,7 @@
 # ADB LOCAL HOST 
-connect adb localhost pake termux
-kalian harus download aplikasi termux\
+connect adb localhost pake termux\
+tanpa root dan pc\
+kalian harus install aplikasi termux\
 [Download Termux](https://github.com/termux/termux-app/releases)
 # COMMAND
 install android-tools
@@ -19,13 +20,15 @@ adb pair ipadress&port
 contoh 
 adb pair 192.168.0.9:44989
 ```
-setelah itu connect ke devicenya
+setelah itu connect ke devicenya liat ip nya di wireless debugging 
 ```
 adb connect ipadress
+contoh
+adb connect 192.168.0.9
 ```
 kalian bisa uninstall bloatware/ aplikasi bawaan di hp kalian dengan cara 
 ```
-adb uninstall com.exapleAAP
+adb uninstall com.exapleAPP
 ```
 untuk liat list package
 ```
