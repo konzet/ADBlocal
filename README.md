@@ -44,7 +44,7 @@ jangan lupa kalo sudah kalian disconnect adbnya
 ```
 adb disconnect
 ```
-# SCREENSHOOTS
+# SCREENSHOOTS STEPS
 adb pair
 ![ss1](./1.png)
 ![ss2](./2.png)
