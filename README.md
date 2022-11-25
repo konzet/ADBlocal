@@ -44,3 +44,9 @@ jangan lupa kalo sudah kalian disconnect adbnya
 ```
 adb disconnect
 ```
+# CONTOH GAMBAR
+adb pair
+![ss1](./1.png)
+
+
+
