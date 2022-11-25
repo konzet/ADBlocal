@@ -44,9 +44,21 @@ jangan lupa kalo sudah kalian disconnect adbnya
 ```
 adb disconnect
 ```
-# CONTOH GAMBAR
+# SCREENSHOOTS
 adb pair
 ![ss1](./1.png)
+![ss2](./2.png)
+abd connect
+![ss3](./3.png)
+adb shell
+![ss4](./4.png)
+adb shell list package
+![ss5](./7.png)
+adb uninstall 
+![ss6](./5.png)
+adb disconnect
+![ss7](./6.png
+
 
 
 
