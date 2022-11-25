@@ -57,7 +57,7 @@ adb shell list package
 adb uninstall 
 ![ss6](./5.png)
 adb disconnect
-![ss7](./6.png
+![ss7](./6.png)
 
 
 
